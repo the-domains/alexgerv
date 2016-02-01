@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Alex Gervais]]></title>
         <description><![CDATA[Alex Gervais]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alexgerv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 07:34:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 07:34:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alexgerv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f530647-4d07-43f3-9bc3-6f5b5e27304d.jpg">]]></description>
+            <link>https://thegrid.ai/alexgerv/b0d72590-5ab5-451d-9439-fc9fa2b20a0f/index.html</link>
+            <guid isPermaLink="false">b0d72590-5ab5-451d-9439-fc9fa2b20a0f</guid>
+            <pubDate>Mon, 01 Feb 2016 07:32:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffa98063-cf5e-4264-95af-ff0159bfdf6e.jpg">]]></description>
-            <link>undefined00955881-2260-4791-af86-5cbadc5f8a41/index.html</link>
+            <link>https://thegrid.ai/alexgerv/00955881-2260-4791-af86-5cbadc5f8a41/index.html</link>
             <guid isPermaLink="false">00955881-2260-4791-af86-5cbadc5f8a41</guid>
             <pubDate>Mon, 01 Feb 2016 07:32:59 GMT</pubDate>
         </item>
